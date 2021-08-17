@@ -10,4 +10,18 @@ templates/base.html
 templates/signup.html
 ```
 
-A new app ```accounts``` is added which handles the signup functionality. 
+A new app ```accounts``` is added which handles the signup functionality.
+
+Other details
+
+```
+Python      3.9.6
+Django      3.2.5
+psycopg2    2.9.1
+---
+Database        PostgreSQL
+Databse Name    Phase_One
+```
+
+
+Visit https://coding-decoded.com for more details.
