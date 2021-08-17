@@ -47,5 +47,6 @@ http://127.0.0.1:8000/accounts/password_reset/
 
 NOTE - The ```home``` url is not defined. It is up-to the user to start a new app and redirect the ```home``` url to newly created app.
 
+The emails generated are at project level.
 
 Visit https://coding-decoded.com for more details.
