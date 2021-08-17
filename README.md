@@ -10,7 +10,7 @@ templates/base.html
 templates/signup.html
 ```
 
-A new app ```accounts``` is added which handles the signup functionality.
+A new app ```accounts``` is added which handles the Sign-up functionality.
 
 Other details
 
@@ -22,6 +22,15 @@ psycopg2    2.9.1
 Database        PostgreSQL
 Databse Name    Phase_One
 ```
+
+Navigatable URLs starter
+```
+http://127.0.0.1:8000/accounts/login/
+http://127.0.0.1:8000/accounts/signup/
+http://127.0.0.1:8000/accounts/logout/
+```
+
+NOTE - The ```home``` url is not defined. It is up-to the user to start a new app and redirect the ```home``` url to newly created app.
 
 
 Visit https://coding-decoded.com for more details.
