@@ -5,7 +5,7 @@ Django has amazing built-in authentication system which needs to be implemented 
 
 Along with above-mentioned functionalities, the Phase-1 project also includes the necessary ```Password Change``` and ```Password Reset``` functionalities as well.
 
-##### Sign-up functionality does not create users with staff.
+##### Sign-up functionality does not create users with staff status.
 
 
 The project relies on ``` django.contrib.auth ```  present under ```INSTALLED_APPS``` with implementing 3 base template files.
